@@ -1,2 +1,2 @@
 # Code
-Pasta do WSL ubunto do escritório para estudos do curso da OneBitCode de Ruby
+Pasta do WSL ubunto para estudos do curso de Ruby
